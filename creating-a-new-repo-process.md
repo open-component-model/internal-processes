@@ -72,3 +72,4 @@ Please follow these steps:
 9. After you get the okay from the OSPO for the project, you change the visibility under repository -> settings -> Change repository visibility
 10. Finally register your project, when it is public, with the REUSE service at https://api.reuse.software/register
 11. The bot from the Open Source Program Office will check daily if the repository is correctly set up and if not create a GitHub issue.
+12. For all repositories, but the ones solely covering documentation and demo purposes, register the new component at https://open-source.tools.sap.corp/open-component-model using the "+ request new" action right beside the search bar. This leads to a form in the ServiceNow system and will register the new component and its release for IP related purposes at SAP.
