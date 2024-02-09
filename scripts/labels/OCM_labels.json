@@ -98,5 +98,10 @@
         "color": "FEF2C0",
         "description": "Need second opinion",
         "name": "second-opinion"
+    },
+    {
+        "color": "BCF215",
+        "description": "IPCEI-CIS",
+        "name": "area/ipcei"
     }
 ]
