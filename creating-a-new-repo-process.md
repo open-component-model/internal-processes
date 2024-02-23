@@ -68,7 +68,7 @@ Please follow these steps:
    Detailed information including third-party components and their licensing/copyright information is available [via the REUSE tool](https://api.reuse.software/info/github.com/open-component-model/<repo-name>).
    ```
 
-8. Before making the repository public, you need to raise a request towards the OSPO. "[Request for subproject](https://github.tools.sap/OSPO/OSPO-request/issues/new?assignees=&labels=Outbound+Subproject&template=011-subproject-for-existing-project.md&title=Sub-project+Outbound+Request%3D%7Bproject-name%7D)" with the SAP Open Source Program Office SAP-internally. If you don't have access / you are not an SAP employee, please reach out to one of the SAP employees to do that.
+8. Before making the repository public, you need to raise [request for a new subproject](https://github.tools.sap/OSPO/OSPO-request/issues/new?assignees=&labels=Outbound+Subproject&template=011-subproject-for-existing-project.md&title=Sub-project+Outbound+Request%3D%7Bproject-name%7D) towards the SAP Open Source Program Office (OSPO). If you don't have access / you are not an SAP employee, please reach out to one of the SAP project administrators to support you.
 9. After you get the okay from the OSPO for the project, you change the visibility under repository -> settings -> Change repository visibility
 10. Finally register your project, when it is public, with the REUSE service at https://api.reuse.software/register
 11. The bot from the Open Source Program Office will check daily if the repository is correctly set up and if not create a GitHub issue.
